@@ -1,3 +1,7 @@
+## Links
+
+[Missing Shims Path](https://github.com/rbenv/rbenv/issues/877) 
+
 # Groom your app’s Ruby environment with rbenv.
 
 Use rbenv to pick a Ruby version for your application and guarantee
